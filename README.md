@@ -80,3 +80,4 @@ in different levels of Fluency (ranging from A2-B2): 🇪🇸 Spanish, 🇩🇪 
 [1]: https://twitter.com/rodrigogregori
 [2]: https://github.com/gregori
 [3]: https://www.linkedin.com/in/rodrigo-gregori/
+
