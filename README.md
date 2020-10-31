@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Rodrigo. A software developer and lecturer at the 
-[Catholic University Center of Santa Catarina](http://www.catolicasc.org.br).
+[Catholic University Center of Santa Catarina](http://www.catolicasc.org.br). You can find me on [![LinkedIn][3.2]][3].
 
 ### 🔭 What I'm working on? 
 I’m currently a senior software developer at [Zup IT](https://github.com/zupit). Working with embedded
@@ -39,6 +39,15 @@ that I teach include:
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/gregori/gregori">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregori&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html" />
+</a>
+<a href="https://github.com/gregori/gregori">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gregori&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs" alt="Rodrigo's GitHub Stats" />
+</a>
+
 ### 🌱 Learning
 I try to keep up with technologies most of the time. I'm currently developing skills on mobile developemt (Java, Flutter)
 and working out some backend skills, other than Java (Node.js, Golang).
@@ -52,27 +61,22 @@ It probably doesn't matter much, but it's one of my interests, so here it goes.
 I'm a native (Brazilian 🇧🇷) Portuguese speaker and I can speak 🇬🇧 English fluently. I can speak/read/write/understand,
 in different levels of Fluency (ranging from A2-B2): 🇪🇸 Spanish, 🇩🇪 German, 🇫🇷 French and 🇮🇹 Italian.
 
+<!-- links to social media icons -->
 
-## &#x1f4c8; GitHub Stats
+<!-- icons with padding -->
 
-<a href="https://github.com/gregori/gregori">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregori&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html" />
-</a>
-<a href="https://github.com/gregori/gregori">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gregori&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs" alt="Rodrigo's GitHub Stats" />
-</a>
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!--
-**gregori/gregori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- icons without padding -->
 
-Here are some ideas to get you started:
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/rodrigogregori
+[2]: https://github.com/gregori
+[3]: https://www.linkedin.com/in/rodrigo-gregori/
