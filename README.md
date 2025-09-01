@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I am Rodrigo. A software developer and lecturer at the 
-[Catholic University Center of Santa Catarina](http://www.catolicasc.org.br). You can find me on [![LinkedIn][3.2]][3].
+I am Rodrigo. A senior software developer. You can find me on [![LinkedIn][3.2]][3].
 
 ### 🔭 What I'm working on? 
-I’m currently a senior software developer at [Zup IT](https://github.com/zupit). Working with embedded
-programming for the [Rio LATAM](https://rio.cloud/en/) project.
+I’m currently a senior software developer at [Zup IT](https://github.com/zupit). Working with data related projects for a financial institution.
 
 ### 👨‍🏫 Teaching
-I usually teach subjects related to programming, but also some subjects related to operations. The list of subjects
+I used to teach subjects related to programming, but also some subjects related to operations. The list of subjects
 that I teach include:
 - Object Oriented Programming
 - Basic Web Programming (HTML/CSS/JavaScript)
@@ -59,7 +57,7 @@ am actively learning 🇯🇵 Japanese and trying to keep up with 🇨🇳 Manda
 It probably doesn't matter much, but it's one of my interests, so here it goes.
 
 I'm a native (Brazilian 🇧🇷) Portuguese speaker and I can speak 🇬🇧 English fluently. I can speak/read/write/understand,
-in different levels of Fluency (ranging from A2-B2): 🇪🇸 Spanish, 🇩🇪 German, 🇫🇷 French and 🇮🇹 Italian.
+in different levels of Fluency (ranging from A2-B2): 🇪🇸 Spanish, 🇩🇪 German, 🇫🇷 French, 🇮🇹 Italian and 🇯🇵 Japanese.
 
 <!-- links to social media icons -->
 
